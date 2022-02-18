@@ -1,12 +1,12 @@
-<h1 align="center">Игра 5 точек</h1>
+<h1 align="center">5 points</h1>
 
 <img src="./readme_assets/1.png">
 
 </br>
 
-## Описание
+## Description
  
-#### Смысл игры состоит в том, чтобы выставить в любом ряду или диагонали пять точек подряд раньше другого игрока
+#### The gist of the game is to place five points of your color one by one in any row or diagonal before another player
 
 </br>
 
@@ -18,11 +18,11 @@
 
 </br>
 
-## Правила
+## The rules
 
-- #### В игре учавствуют 2 игрока. У каждого из них свой цвет отметок
+- #### The game is played by 2 players. Each one has its own marking color
 
-- #### Игроки ходят по очереди и могут мешать друг другу, ставя свои точки после точек другого игрока
+- #### Players take turns and can interrupt with each other by placing their dots after the other player's dots
 
 </br>
 
@@ -30,7 +30,7 @@
 
 </br>
 
-- #### Выигрывает тот игрок, который первым поставит 5 отметок своего цвета подряд
+- #### The game ends when one of the players put 5 points of its color in sequence
 
 </br>
 
@@ -38,6 +38,6 @@
 
 </br>
 
-## Технологии в проекте
+## Tech
 
-#### Игра написана на чистом JavaScript
+#### Game created with JavaScript
