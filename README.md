@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center"><a  href="https://guryanov-junior.github.io/5-points/">Live Demo</a></h2>
+### <p align="center"><a  href="https://guryanov-junior.github.io/5-points/">Live Demo</a></p>
 
 ---
 
